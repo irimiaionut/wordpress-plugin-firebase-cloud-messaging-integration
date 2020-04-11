@@ -40,9 +40,6 @@ class FCMNotificationManager {
         $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
         curl_close( $ch );
 
-        error_log(print_r(json_encode($payload),1));
-        error_log(print_r($result,1));
-
         if($httpcode === 200){
             return true;
         }else{
