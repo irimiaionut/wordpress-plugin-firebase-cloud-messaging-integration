@@ -10,9 +10,14 @@ Firebase Cloud Messaging Integration uses Firebase HTTP v1 API (latest) and requ
 - google api credentials file in root project with name client_credentials.json
 - complete mandatory fields in FCM Integration Settings Page in the Admin Wordpress Backend (plugin normal admin page)
 
-
 How to get google api credentials file
 [https://cloud.google.com/docs/authentication/getting-started](https://cloud.google.com/docs/authentication/getting-started)
+
+
+### Features
+- auto push (send notifications automaticly when posting new article)
+- accepted categories (only specified categories will be allowed to push notifications)
+- customize notifications (custom topic, title and body for notifications)
 
 
 ### Default payload
