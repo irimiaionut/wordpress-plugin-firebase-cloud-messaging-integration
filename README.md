@@ -1,5 +1,5 @@
 
-# FCM - Integration
+# FCM - Integration (Wordpress plugin)
 Firebase Cloud Messaging Integration allow your website to send push notifications to your users when a post is published, or when you need.
 
 ### How to use
