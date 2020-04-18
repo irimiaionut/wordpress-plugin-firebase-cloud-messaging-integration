@@ -50,4 +50,4 @@ How to get google api credentials file
 ![preview_posts_page_2](assets/previews/preview_posts_page_2.png)
 
 ### Preview Settings Page
-![preview_settings_page](assets/previews/preview_settings_page.png)
+![preview_settings_page](assets/previews/preview_settings_page_1.png)
