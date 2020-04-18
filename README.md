@@ -25,7 +25,6 @@ How to get google api credentials file
 
 
 ### Default payload
-
 ```json
 {
   "message": {
@@ -43,3 +42,12 @@ How to get google api credentials file
 
 ### Git Hub
 [https://github.com/irimiaionut/wordpress-plugin-firebase-cloud-messaging-integration](https://github.com/irimiaionut/wordpress-plugin-firebase-cloud-messaging-integration)
+
+# Previews
+
+### Preview Posts Page
+![preview_posts_page_1](assets/previews/preview_posts_page_1.png)
+![preview_posts_page_2](assets/previews/preview_posts_page_2.png)
+
+### Preview Settings Page
+![preview_settings_page](assets/previews/preview_settings_page.png)
